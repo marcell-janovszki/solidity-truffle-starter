@@ -70,4 +70,4 @@ $truffle(kovan)> deploy
 ```
 
 
-by: @marcell-janovszki ☕❤️
+[ dev @marcell-janovszki ☕❤️ ]
