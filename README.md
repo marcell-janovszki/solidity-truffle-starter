@@ -1,6 +1,6 @@
 # ExampleToken
 ### A project in truffle which offers a good starting point for accelerated :dash: development :construction:
-### default setup connects to Kovan testnet through a provided node url in the secret.json file
+#### default setup connects to Kovan testnet through a provided node url in the secret.json file
 
 ```
 "dependencies": {
