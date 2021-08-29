@@ -8,4 +8,16 @@
   }
 ```
 
+###### required:
+
+```
+../example-token/secrets.json
+{
+    "mnemonic": "?",
+    "nodeUrl": "?"
+}
+```
+
+
+
 by: @marcell-janovszki ☕❤️
