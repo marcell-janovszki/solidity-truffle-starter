@@ -1,1 +1,0 @@
-const ExampleToken = artifacts.require("ExampleToken");
